@@ -1,0 +1,50 @@
+table.container {
+  margin-top: 15px;
+}
+
+.container.title {
+  padding: 15px 0;
+  color: rgb(107, 105, 105);
+}
+
+/* button[type = 'submit'] {
+    margin-top: 10px;
+} */
+
+ul li a {
+  text-decoration: none;
+  /* color: red; */
+  color: rgb(143, 78, 78);
+}
+
+ul li a:hover {
+  color: rgb(141, 0, 0);
+}
+
+nav span {
+  cursor: pointer;
+  color: aqua;
+  opacity: 0.8;
+}
+
+h3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+h3 p {
+  display: inline-block;
+  color: blue;
+  font-size: 35px;
+}
+
+.modal-header {
+  position: relative;
+  padding: 30px;
+}
+.modal-header img {
+  position: absolute;
+  right: 10px;
+
+  border-radius: 10px;
+}
